@@ -1,6 +1,6 @@
 # Halo, Aku Chanif Chawaza Syahrul Ulum 👋
 
-Mahasiswa S1 Teknik Informatika semester 7 yang tertarik pada pengembangan web dan analisis data. Suka membangun aplikasi web yang fungsional sekaligus mengeksplorasi pengolahan data.
+Mahasiswa S1 Teknik Informatika tertarik pada pengembangan web dan analisis data. Suka membangun aplikasi web yang fungsional sekaligus mengeksplorasi pengolahan data.
 
 ---
 
