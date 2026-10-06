@@ -18,5 +18,5 @@ Mahasiswa S1 Teknik Informatika semester 7 yang tertarik pada pengembangan web d
 ---
 
 ### Kontak & Media Sosial
-* **LinkedIn:** [Tautan Profil Kamu](https://linkedin.com)
-* **Email:** emailkamu@example.com
+* **LinkedIn:** [Tautan Profil Kamu]([https://linkedin.com](https://www.linkedin.com/in/chanif-ulum-278b612a8/?isSelfProfile=true))
+* **Email:** cchawaza@gmail.com
